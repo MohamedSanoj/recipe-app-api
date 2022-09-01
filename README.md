@@ -1,2 +1,2 @@
-# recepie-app-api
-Recepie-Api-Project
+# recipe-app-api
+Recipe-Api-Project
